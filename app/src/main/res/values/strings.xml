@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GD3_2_E_9590</string>
+    <string name="npm_text">NPM</string>
+    <string name="nama_text">Nama</string>
+    <string name="fakultas_text">Fakultas</string>
+    <string name="ipk_text">IPK</string>
+    <string name="jurusan_text">Jurusan</string>
+    <string name="hobi_text">Hobi</string>
+    <string name="simpan_text">SIMPAN</string>
+    <string name="back_text">BACK</string>
+</resources>
